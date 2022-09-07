@@ -1,0 +1,16 @@
+button{
+    color: red;
+    border-radius: 1cm;
+}
+
+.box{
+    margin: 0px auto;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
