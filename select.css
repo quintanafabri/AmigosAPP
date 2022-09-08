@@ -1,7 +1,10 @@
 .optionbox{
+
     display: flex;
     justify-content: center;
     margin: 0px auto;
+    margin-top: 05vh;
+
 
     top: 50%;
     left: 50%;
