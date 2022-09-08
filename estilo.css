@@ -1,16 +1,39 @@
+body{
+    background-image: url("https://quintanafabri.github.io/AmigosAPP/fondo.jpg");
+}
+
+
 button{
-    color: red;
+    color: rgb(34, 0, 255);
     border-radius: 1cm;
 }
 
 .box{
+    
     margin: 0px auto;
 
 }
 
 .container{
+    margin-top: 05vh;
+    margin-bottom: 05vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
+img{
+    width: 20%;
+}
+
+.foto{
+    display: flex;
+    margin: 0px auto;
+    justify-content: center;
+}
+
+.form-select{
+    display: flex;
+    justify-content: center;
+    
+}
